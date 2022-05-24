@@ -1,0 +1,53 @@
+    body {
+        padding: 0;
+        margin: 0;
+        background-color: aliceblue;
+    }
+    
+    header {
+        width: 75em;
+        padding: 5%;
+        background-image: url("o.png");
+    }
+    
+    header a {
+        margin-left: 0.5%;
+        text-decoration: none;
+        color: black;
+        font-weight: bolder;
+        font-size: 2em;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        letter-spacing: 1em;
+    }
+    
+    header a:hover {
+        color: rgb(124, 57, 57);
+        font-size: 3em;
+    }
+    
+    h2 {
+        text-align: center;
+        color: rgb(124, 57, 57);
+    }
+    
+    div {
+        margin-left: 1%;
+        border: 1px dotted rgb(124, 57, 57);
+        display: inline-block;
+        width: 28%;
+        height: 20em;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-indent: 2%;
+        padding: 1%;
+    }
+    
+    span {
+        text-align: center;
+        font-style: italic;
+        font-weight: bolder;
+        padding-bottom: 1%;
+    }
+    
+    footer {
+        margin-left: 2%;
+    }
